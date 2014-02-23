@@ -3,7 +3,7 @@
   "description": "PHP Template",
   "icon":        "slash-conf/icon.jpg",
   "name":        "PHP Template",
-  "url":         "php-demo/",
+  "url":         "php/",
   "repo_url":    "slashnet/php-demo"
 }
 
