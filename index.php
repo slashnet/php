@@ -6,7 +6,7 @@
         
         <title>PHP Template</title>
         
-        
+       <h1>If you can see this, then it works!</h1>
         
        
     </body>
